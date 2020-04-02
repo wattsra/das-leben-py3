@@ -1,3 +1,16 @@
+NOTE: This is a fork of the original project hosted here: https://github.com/JDShu/das-leben
+
+The minor changes I made allow it to be run in Python3
+
+Installation Instructions:
+Ubuntu
+sudo apt install python3-pip
+pip3 install panda3d
+
+git clone 
+cd das-leben-py3
+./run.py
+
 ---------
 Das Leben
 ---------
