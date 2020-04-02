@@ -6,18 +6,24 @@ Installation Instructions:
 **Ubuntu**
 Get dependencies
 
-```
+`
 sudo apt install python3-pip
+`
+`
 pip3 install panda3d
-```
+`
 
 Clone repository and run
 
-```
+`
 git clone 
+`
+`
 cd das-leben-py3
+`
+`
 ./run.py
-```
+`
 
 ---------
 Das Leben
