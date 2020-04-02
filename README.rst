@@ -3,28 +3,27 @@ NOTE: This is a fork of the original project hosted here: https://github.com/JDS
 The minor changes I made allow it to be run in Python3
 
 Installation Instructions:
+
 **Ubuntu**
+
 Get dependencies
 
-```
-sudo apt install python3-pip
-```
-```
-pip3 install panda3d
-```
+::
+
+    sudo apt install python3-pip
+    pip3 install panda3d
+
 
 Clone repository and run
 
-```
-git clone https://github.com/wattsra/das-leben-py3.git
-```
-```
-cd das-leben-py3
-```
-```
-./run.py
-```
+::
 
+    git clone https://github.com/wattsra/das-leben-py3.git
+    cd das-leben-py3
+    ./run.py
+    
+
+---------
 ---------
 Das Leben
 ---------
